@@ -18,7 +18,7 @@ fido.name
 
 # class Dog
 #   def initialize(breed)
-#     
+#
 #   end
 #
 #   def breed=(breed)
