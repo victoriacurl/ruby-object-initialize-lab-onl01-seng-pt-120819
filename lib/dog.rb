@@ -28,5 +28,3 @@ fido.name
 #     @breed
 #   end
 # end
-
-
